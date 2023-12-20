@@ -3,6 +3,13 @@
     "id": "nf-iridanext",
     "releases": [
       {
+        "version": "0.2.0.dev0",
+        "date": "2023-12-20T10:51:35.096466-06:00",
+        "url": "https://github.com/apetkau/nf-plugins-test/raw/main/releases/nf-iridanext/nf-iridanext-0.2.0.dev0.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "e879e308a060614ab6faf51f8028de22aa552fccf725389c0e661ca259dd0ada1910b1ea3d374291865b4c3d4c438697bfa93bd4093e208646a2dfd7d0eac714"
+      },
+      {
         "version": "0.1.0",
         "date": "2023-12-14T23:11:20.380355-06:00",
         "url": "https://github.com/phac-nml/nf-iridanext/releases/download/0.1.0/nf-iridanext-0.1.0.zip",
