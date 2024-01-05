@@ -5,7 +5,7 @@
       {
         "version": "0.2.0",
         "date": "2023-12-20T10:51:35.096466-06:00",
-        "url": "https://github.com/apetkau/nf-plugins-test/raw/main/releases/nf-iridanext/nf-iridanext-0.2.0.zip",
+        "url": "https://github.com/phac-nml/nf-plugins-phac-nml/raw/main/releases/nf-iridanext/nf-iridanext-0.2.0.zip",
         "requires": ">=22.10.0",
 	"sha512sum": "372cd1fa54ff47bd14fed7f14622ba43daac4337749627c7795cadfa1d4328d87044d0b78bd16c20cb6abc9bd169920c99b7a33a6494c023e1c151a5198eb6c0"
       },
